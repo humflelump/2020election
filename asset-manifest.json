@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2020election/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/2020election/static/js/main.ff8073dc.chunk.js",
+    "main.js.map": "/2020election/static/js/main.ff8073dc.chunk.js.map",
+    "runtime-main.js": "/2020election/static/js/runtime-main.959df454.js",
+    "runtime-main.js.map": "/2020election/static/js/runtime-main.959df454.js.map",
+    "static/js/2.0c596aa4.chunk.js": "/2020election/static/js/2.0c596aa4.chunk.js",
+    "static/js/2.0c596aa4.chunk.js.map": "/2020election/static/js/2.0c596aa4.chunk.js.map",
+    "static/js/3.60916fa0.chunk.js": "/2020election/static/js/3.60916fa0.chunk.js",
+    "static/js/3.60916fa0.chunk.js.map": "/2020election/static/js/3.60916fa0.chunk.js.map",
+    "index.html": "/2020election/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/2020election/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0c596aa4.chunk.js.LICENSE.txt": "/2020election/static/js/2.0c596aa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.959df454.js",
+    "static/js/2.0c596aa4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ff8073dc.chunk.js"
+  ]
+}
